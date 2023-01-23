@@ -7,9 +7,10 @@
 # Introduction
 
 Meme Maker is a fully responsive web application which help you to make creative meme.
-user can simply give input to the application and that input will be displayed on random generated meme.
-Used api.imgflip.com/get_memes to get meme
+<br>
+user can simply give input to the application and that input will be displayed on random generated meme.<br>
+Used api.imgflip.com/get_memes to get memes
 
 # Check out the Meme Maker Right Now!
 
-https://living-hell.github.io/crypto-tracker/
+https://oyesaurabh.github.io/meme_maker/
