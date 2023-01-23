@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/meme_maker/static/js/main.a4eb3cbb.js",
+    "index.html": "/meme_maker/index.html",
+    "main.a4eb3cbb.js.map": "/meme_maker/static/js/main.a4eb3cbb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a4eb3cbb.js"
+  ]
+}
