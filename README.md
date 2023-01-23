@@ -4,13 +4,17 @@
 
 ![2](https://user-images.githubusercontent.com/66557474/214067957-5be948ec-104e-47df-9b94-812992e61641.png)
 
-# Introduction
+## Introduction
+Welcome to the Meme Generator web app!<br>
+This app is built using React, a popular JavaScript library for building user interfaces.<br>
+It allows users to easily create and share their own memes by selecting a template image and adding custom text.
 
-Meme Maker is a fully responsive web application which help you to make creative meme.
-<br>
-user can simply give input to the application and that input will be displayed on random generated meme.<br>
-Used api.imgflip.com/get_memes to get memes
+## Getting started:
 
-# Check out the Meme Maker Right Now!
+- Clone or download the repository `git clone https://github.com/oyeSAURABH/meme_maker.git`
+- Run `npm install` to install all necessary dependencies
+- Run `npm start` to start the development server and view the app in your browser
+
+## Check out the Meme Maker Right Now!
 
 https://oyesaurabh.github.io/meme_maker/
